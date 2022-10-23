@@ -1,2 +1,2 @@
 # C-Primier
-That are notes about this book.
+There are notes about this book.
